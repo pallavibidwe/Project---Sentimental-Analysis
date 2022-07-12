@@ -1,2 +1,2 @@
-# Project---Sentimental-Analysis
-Amazon Product reviews 
+# Project---Amazon NLP Sentiment-Analysis
+
